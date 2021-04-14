@@ -4,6 +4,16 @@ This mod adds [Defensive Microbots][] as a regular item that can be found in the
 
 **Network compatibility:** In multiplayer, only the host needs the mod.
 
+### Patch notes
+
+v1.0.1
+
+* No changes. Something went wrong when uploading v1.0.0 and the mod cannot be found in the mod manager; maybe a republish will help.
+
+v1.0.0
+
+* Initial version.
+
 ## Support
 
 If the mod fails to work, you can [open a GitHub issue][issue]. You can also contact me on Discord at Arimah#0001. I am _not_ in any Risk of Rain modding community.

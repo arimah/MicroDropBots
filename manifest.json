@@ -1,6 +1,6 @@
 {
 	"name": "MicroDropBots",
-	"version_number": "1.0.0",
+	"version_number": "1.0.1",
 	"website_url": "https://github.com/arimah/MicroDropBots",
 	"description": "Adds Defensive Microbots as a findable item.",
 	"dependencies": [
