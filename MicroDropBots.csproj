@@ -7,51 +7,67 @@
   <ItemGroup>
     <Reference Include="0Harmony">
       <HintPath>..\ror2libs\0Harmony.dll</HintPath>
+      <Private>false</Private>
     </Reference>
     <Reference Include="Assembly-CSharp">
       <HintPath>..\ror2libs\Assembly-CSharp.dll</HintPath>
+      <Private>false</Private>
     </Reference>
     <Reference Include="BepInEx">
       <HintPath>..\ror2libs\BepInEx.dll</HintPath>
+      <Private>false</Private>
     </Reference>
     <Reference Include="BepInEx.Harmony">
       <HintPath>..\ror2libs\BepInEx.Harmony.dll</HintPath>
+      <Private>false</Private>
     </Reference>
     <Reference Include="BepInEx.Preloader">
       <HintPath>..\ror2libs\BepInEx.Preloader.dll</HintPath>
+      <Private>false</Private>
     </Reference>
     <Reference Include="MMHOOK_Assembly-CSharp">
       <HintPath>..\ror2libs\MMHOOK_Assembly-CSharp.dll</HintPath>
+      <Private>false</Private>
     </Reference>
     <Reference Include="Mono.Cecil">
       <HintPath>..\ror2libs\Mono.Cecil.dll</HintPath>
+      <Private>false</Private>
     </Reference>
     <Reference Include="Mono.Cecil.Mdb">
       <HintPath>..\ror2libs\Mono.Cecil.Mdb.dll</HintPath>
+      <Private>false</Private>
     </Reference>
     <Reference Include="Mono.Cecil.Pdb">
       <HintPath>..\ror2libs\Mono.Cecil.Pdb.dll</HintPath>
+      <Private>false</Private>
     </Reference>
     <Reference Include="Mono.Cecil.Rocks">
       <HintPath>..\ror2libs\Mono.Cecil.Rocks.dll</HintPath>
+      <Private>false</Private>
     </Reference>
     <Reference Include="MonoMod.RuntimeDetour">
       <HintPath>..\ror2libs\MonoMod.RuntimeDetour.dll</HintPath>
+      <Private>false</Private>
     </Reference>
     <Reference Include="MonoMod.Utils">
       <HintPath>..\ror2libs\MonoMod.Utils.dll</HintPath>
+      <Private>false</Private>
     </Reference>
     <Reference Include="R2API">
       <HintPath>..\ror2libs\R2API.dll</HintPath>
+      <Private>false</Private>
     </Reference>
     <Reference Include="UnityEngine">
       <HintPath>..\ror2libs\UnityEngine.dll</HintPath>
+      <Private>false</Private>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>..\ror2libs\UnityEngine.CoreModule.dll</HintPath>
+      <Private>false</Private>
     </Reference>
     <Reference Include="UnityEngine.Networking">
       <HintPath>..\ror2libs\UnityEngine.Networking.dll</HintPath>
+      <Private>false</Private>
     </Reference>
   </ItemGroup>
 
