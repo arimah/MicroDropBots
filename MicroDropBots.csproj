@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
@@ -23,10 +24,6 @@
     </Reference>
     <Reference Include="BepInEx.Preloader">
       <HintPath>..\ror2libs\BepInEx.Preloader.dll</HintPath>
-      <Private>false</Private>
-    </Reference>
-    <Reference Include="MMHOOK_Assembly-CSharp">
-      <HintPath>..\ror2libs\MMHOOK_Assembly-CSharp.dll</HintPath>
       <Private>false</Private>
     </Reference>
     <Reference Include="Mono.Cecil">

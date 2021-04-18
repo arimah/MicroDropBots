@@ -6,6 +6,10 @@ This mod adds [Defensive Microbots][] as a regular item that can be found in the
 
 ### Patch notes
 
+v1.0.2
+
+* Rework mod to get rid of the direct `MMHOOK_Assembly-CSharp` dependency. Uses a plain Harmony patcher instead.
+
 v1.0.1
 
 * No changes. Something went wrong when uploading v1.0.0 and the mod cannot be found in the mod manager; maybe a republish will help.
